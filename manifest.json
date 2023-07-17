@@ -5,5 +5,12 @@
   "version": "1.0",
   "chrome_url_overrides": {
     "newtab": "index.html"
+  },
+  "homepage_url": "https://0u0.ren/",
+  "icons": {
+    "16": "icon/logo-16.png",
+    "32": "icon/logo-32.png",
+    "48": "icon/logo-48.png",
+    "128": "icon/logo-128.png"
   }
 }

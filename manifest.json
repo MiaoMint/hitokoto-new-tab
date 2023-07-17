@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "一言新标签页",
+  "description": "将新标签页改成一言，每次打开都会随机显示一句话。",
+  "version": "1.0",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
